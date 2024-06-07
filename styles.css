@@ -1,0 +1,27 @@
+body  {
+    background: #838689;
+}
+.pol {
+    margin-top: 1%;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    margin-left: 18%;
+    font-weight: bold;
+    font-size: 12;
+}
+h2{
+    margin-left: 18%;
+    color: white;
+}
+h3{
+    margin-left: 18%;
+    color: black;
+}
+.pre{
+    font-weight: bold;
+}
+
