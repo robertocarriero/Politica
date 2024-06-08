@@ -1,21 +1,21 @@
 body  {
-    background: #838689;
+    background: #f6f8ee;
 }
 .pol {
     margin-top: 1%;
 }
 h1 {
     text-align: center;
-    color: white;
+    color: black;
 }
 p {
     margin-left: 18%;
-    font-weight: bold;
+    font-weight: 500;
     font-size: 12;
 }
 h2{
     margin-left: 18%;
-    color: white;
+    color: black;
 }
 h3{
     margin-left: 18%;
